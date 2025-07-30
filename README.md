@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AI/ML-5C2D91?style=for-the-badge&logo=ai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Networking-00BFFF?style=for-the-badge"/>
 </p>
 
